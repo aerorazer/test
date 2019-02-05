@@ -1,4 +1,5 @@
-[
+{
+	"games": [
 	{
 		"id" : 3,
 		"name" : "Hollow Knight",
@@ -60,3 +61,4 @@
 		"pegi" : 0
 	}
 ]
+}
